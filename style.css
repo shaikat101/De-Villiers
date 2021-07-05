@@ -56,3 +56,6 @@ h1{
 .paragraph{
     padding-right: 65px;
 }
+.flexible{
+    display: flex;
+}
