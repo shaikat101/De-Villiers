@@ -1,0 +1,58 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+ color: olive;
+}
+.flex{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.profile{
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.profile img{
+    width: 80%;
+    padding-left: 2px;
+}
+
+.top{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bio{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange tomato);
+    border-radius: 10%;
+    font-weight: 700;
+    color: white;
+
+}
+
+.career{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(orange tomato);
+    border-radius: 10%;
+    font-weight: 700;
+    color: white;
+    padding-right: 3%;
+}
+.middle{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.paragraph{
+    padding-right: 65px;
+}
